@@ -1,3 +1,12 @@
 * {
     color: red;
+    background-color: blue;
+    
+    
+}
+
+
+.text-right {
+    text-align: right;
+    color: yellow;
 }
